@@ -6,13 +6,15 @@ export class About_me extends Component {
       <div>
         <section class="hero is-vintage-about-me is-fullheight is-fullheight-with-navbar" id="About">
             <div class="hero-body">
-                <div class="container">Hello! I am
-                    <h1 class="title is-1">
-                        Minion Tim
-                    </h1>
-                    <h2 class="subtitle is-3">
-                        Full Stack Web Developer
-                    </h2>
+                <div class="container">
+                    <center>
+                        <h1 class="title is-1 text-color-about-sl">
+                            SecondLight
+                        </h1>
+                        <h3 class="subtitle is-3 text-color-about-content">
+                            สวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับสวัสดีครับ
+                        </h3>
+                    </center>
                 </div>
             </div>
         </section>

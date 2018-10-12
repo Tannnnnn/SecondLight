@@ -4,14 +4,14 @@ export class Service extends Component {
   render() {
     return (
       <div>
-        <section class="hero is-vintage-about-me is-fullheight is-fullheight-with-navbar" id="Services">
+        <section class="hero is-vintage-service is-fullheight is-fullheight-with-navbar" id="Services">
             <div class="hero-body">
-                <div class="container">Hello! I am
+                <div class="container">
                     <h1 class="title is-1 text-color-home">
-                        Minion Tim
+                        
                     </h1>
                     <h2 class="subtitle is-3 text-color-home">
-                        Full Stack Web Developer
+                        
                     </h2>
                 </div>
             </div>
