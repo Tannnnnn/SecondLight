@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Squada+One);
+@import url(https://fonts.googleapis.com/css?family=Seaweed+Script);
+
+@media screen and (min-width: 1088px)
+.container>.navbar .navbar-menu, .navbar>.container .navbar-menu {
+    margin-right: 0rem;
+}
+
+@media screen and (min-width: 1088px)
+.navbar-menu {
+    flex-grow: 1;
+    flex-shrink: 0;
+}
+
+@media screen and (min-width: 1088px)
+.navbar, .navbar-end, .navbar-menu, .navbar-start {
+    align-items: stretch;
+    display: flex;
+}
+
+@media screen and (max-width: 1087px)
+.is-hidden-touch {
+    display: none!important;
+}
+
+.navbar > .container .navbar-menu, .container > .navbar .navbar-menu {
+    margin-right: 0rem !important;
+}
+
+.is-vintage-home {
+    background-color : #454545;
+    color : whitesmoke
+}
+
+.text-color-home {
+    color : whitesmoke !important;
+}
+
+.menu-margin {
+    margin-left: 600px !important;
+}
+
+.font-logo {
+    font-family: "Seaweed Script" !important;
+    font-size: 20px;
+    padding-top: 3px;
+}
+
+.is-vintage-about-me {
+    background-color : #999999
+}
+
+.transparent-menu {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+}
+
+.padding-menu {
+    padding-left: 108px !important;
+}
+
+a:hover {
+    color: rgb(253, 2, 98) !important;
+}
