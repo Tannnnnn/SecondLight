@@ -34,15 +34,15 @@
 }
 
 .text-color-home {
-    color: rgba(245, 245, 245, 0.658) !important;
+    color: rgba(245, 245, 245, 0.788) !important;
     font-family: "Seaweed Script" !important;
-    font-size: 140px !important;
+    font-size: 120px !important;
 }
 
 .text-color-about-sl {
     color: rgba(245, 245, 245, 0.658) !important;
     font-family: "Seaweed Script" !important;
-    font-size: 100px !important;
+    font-size: 70px !important;
     padding-bottom: 30px
 }
 
@@ -53,19 +53,19 @@
 }
 
 .text-color-home-th1 {
-    color: rgba(255, 5, 5, 0.658) !important;
+    color: rgba(255, 5, 5, 0.788) !important;
     font-family: "Seaweed Script" !important;
     font-size: 80px !important;
 }
 
 .text-color-home-th2 {
-    color: rgba(245, 245, 245, 0.658) !important;
+    color: rgba(245, 245, 245, 0.788) !important;
     font-family: "Seaweed Script" !important;
     font-size: 80px !important;
 }
 
 .text-color-home-th3 {
-    color: rgba(69, 28, 253, 0.658) !important;
+    color: rgba(69, 28, 253, 0.788) !important;
     font-family: "Seaweed Script" !important;
     font-size: 80px !important;
 }
@@ -89,7 +89,7 @@
     filter: alpha(opacity=50);
     -moz-opacity: 0.5;
     -khtml-opacity: 0.5;
-    opacity: 0.5;
+    opacity: 0.9;
 }
 
 .padding-menu {
@@ -101,7 +101,7 @@ a:hover {
 }
 
 .hero.is-vintage-home {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-9/43291467_319728928833514_986914571870535680_n.jpg?_nc_cat=109&oh=c3d00cc7f09d393ff0bc561885edf191&oe=5C4E60EC) no-repeat center center fixed;
+    background: url(https://scontent.fbkk1-3.fna.fbcdn.net/v/t1.0-9/43291467_319728928833514_986914571870535680_n.jpg?_nc_cat=109&oh=c3d00cc7f09d393ff0bc561885edf191&oe=5C4E60EC) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -109,7 +109,7 @@ a:hover {
 }
 
 .hero.is-vintage-about-me {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/43075308_318851822254558_8497209318980976640_n.jpg?_nc_cat=111&oh=e0974c25e26b2d034a21b7224fe49d86&oe=5C52154E) no-repeat center center fixed;
+    background: url(https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/43075308_318851822254558_8497209318980976640_n.jpg?_nc_cat=111&oh=e0974c25e26b2d034a21b7224fe49d86&oe=5C52154E) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -117,7 +117,7 @@ a:hover {
 }
 
 .hero.is-vintage-portfolio {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/43310207_319728885500185_3912540478796464128_n.jpg?_nc_cat=102&oh=57f2b59b5c0c24dbb6bf851b2ae13269&oe=5C18BC01) no-repeat center center fixed;
+    background: url(https://scontent.fbkk1-5.fna.fbcdn.net/v/t1.0-9/43310207_319728885500185_3912540478796464128_n.jpg?_nc_cat=102&oh=57f2b59b5c0c24dbb6bf851b2ae13269&oe=5C18BC01) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -125,7 +125,7 @@ a:hover {
 }
 
 .hero.is-vintage-service {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/43199507_319728762166864_4556431912704409600_n.jpg?_nc_cat=105&oh=29d0d542db61972c334c8f6dce0886ab&oe=5C588A28) no-repeat center center fixed;
+    background: url(https://scontent.fbkk1-4.fna.fbcdn.net/v/t1.0-9/43199507_319728762166864_4556431912704409600_n.jpg?_nc_cat=105&oh=29d0d542db61972c334c8f6dce0886ab&oe=5C588A28) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
