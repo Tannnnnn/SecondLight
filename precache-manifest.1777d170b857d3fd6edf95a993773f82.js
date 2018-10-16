@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/secondlight/static/media/pf_2.d0a4dda7.jpg"
   },
   {
-    "revision": "9b2920e1928fcb377a32",
-    "url": "/secondlight/static/css/main.645a8af6.chunk.css"
+    "revision": "5fed11b2c6e492f58587",
+    "url": "/secondlight/static/css/main.84e696c7.chunk.css"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/secondlight/static/media/pf_1.c937e3e0.jpg"
   },
   {
-    "revision": "9b2920e1928fcb377a32",
-    "url": "/secondlight/static/js/main.9b2920e1.chunk.js"
+    "revision": "5fed11b2c6e492f58587",
+    "url": "/secondlight/static/js/main.5fed11b2.chunk.js"
   },
   {
     "revision": "8216e3bebf92e9bcc90065be3be6b409",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/secondlight/static/css/1.73085adc.chunk.css"
   },
   {
-    "revision": "b275271e75403d0187d80433e5e2ae89",
+    "revision": "673531d49818e5dac3b7890d2082327b",
     "url": "/secondlight/index.html"
   }
 ];

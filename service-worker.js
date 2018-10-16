@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/secondlight/precache-manifest.76097e5ffb3be1a193632267cba814fc.js"
+  "/secondlight/precache-manifest.1777d170b857d3fd6edf95a993773f82.js"
 );
 
 workbox.clientsClaim();

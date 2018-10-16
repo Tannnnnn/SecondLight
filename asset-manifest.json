@@ -1,7 +1,7 @@
 {
-  "main.css": "/secondlight/static/css/main.645a8af6.chunk.css",
-  "main.js": "/secondlight/static/js/main.9b2920e1.chunk.js",
-  "main.js.map": "/secondlight/static/js/main.9b2920e1.chunk.js.map",
+  "main.css": "/secondlight/static/css/main.84e696c7.chunk.css",
+  "main.js": "/secondlight/static/js/main.5fed11b2.chunk.js",
+  "main.js.map": "/secondlight/static/js/main.5fed11b2.chunk.js.map",
   "static/css/1.73085adc.chunk.css": "/secondlight/static/css/1.73085adc.chunk.css",
   "static/js/1.b0a3d09c.chunk.js": "/secondlight/static/js/1.b0a3d09c.chunk.js",
   "static/js/1.b0a3d09c.chunk.js.map": "/secondlight/static/js/1.b0a3d09c.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/pf_7.jpg": "/secondlight/static/media/pf_7.37cdcc55.jpg",
   "static/media/logo.svg": "/secondlight/static/media/logo.5d5d9eef.svg",
   "static/media/pf_1.jpg": "/secondlight/static/media/pf_1.c937e3e0.jpg",
-  "static/css/main.645a8af6.chunk.css.map": "/secondlight/static/css/main.645a8af6.chunk.css.map",
+  "static/css/main.84e696c7.chunk.css.map": "/secondlight/static/css/main.84e696c7.chunk.css.map",
   "static/css/1.73085adc.chunk.css.map": "/secondlight/static/css/1.73085adc.chunk.css.map",
   "index.html": "/secondlight/index.html",
-  "precache-manifest.76097e5ffb3be1a193632267cba814fc.js": "/secondlight/precache-manifest.76097e5ffb3be1a193632267cba814fc.js",
+  "precache-manifest.1777d170b857d3fd6edf95a993773f82.js": "/secondlight/precache-manifest.1777d170b857d3fd6edf95a993773f82.js",
   "service-worker.js": "/secondlight/service-worker.js"
 }
